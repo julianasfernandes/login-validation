@@ -1,0 +1,22 @@
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 25px;
+}
+
+fieldset{
+    border-radius: 15px;
+}
+
+input{
+    background-color: orange;
+    border-radius: 7px;
+}
+
+button{
+    margin-top: 5px;
+    border-radius: 7px;
+}
